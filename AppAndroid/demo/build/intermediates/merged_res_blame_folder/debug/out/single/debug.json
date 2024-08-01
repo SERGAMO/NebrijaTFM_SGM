@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_spectrum_power_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_spectrum_power_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_spectrum_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_spectrum_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_demo_mode.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_demo_mode.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_eeg_index_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_eeg_index_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/color_button_state_view.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/color/button_state_view.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable_button_bg.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_zoom_button.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_zoom_button.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_meditation_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_meditation_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable_edit_border_rounded_fill.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/drawable/edit_border_rounded_fill.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_dev_search.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_dev_search.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_resistance_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_resistance_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_signal_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_signal_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/drawable_ic_copy.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_device_info.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_device_info.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_eeg_demo.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_eeg_demo.xml"
+    },
+    {
+        "merged": "com.neurosdk.brainbit.demo-merged_res-19:/layout_fragment_plot_qsignal.xml.flat",
+        "source": "com.neurosdk.brainbit.demo-main-21:/layout/fragment_plot_qsignal.xml"
+    }
+]

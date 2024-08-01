@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7010</color>
+    <color name="colorPrimaryDark">#EB5727</color>
+    <color name="colorAccent">#F58F46</color>
+    <color name="colorDevState">#46474D</color>
+    <color name="colorDevStateTitle">#FFF</color>
+    <color name="colorDevStateValue">#00DE00</color>
+    <color name="colorButtonBgPressedRipple">#8F000000</color>
+    <color name="colorButtonBgDisabled">#AF8B8C90</color>
+    <color name="colorButtonText">#FFF</color>
+    <color name="colorButtonBgPressed">#B7400A</color>
+</resources>

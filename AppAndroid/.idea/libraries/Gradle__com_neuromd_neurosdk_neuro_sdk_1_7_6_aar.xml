@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.neuromd.neurosdk:neuro-sdk:1.7.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e09f7287fad59d469404a9d628d90334/transformed/jetified-neuro-sdk-1.7.6/jars/libs/scan_result.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e09f7287fad59d469404a9d628d90334/transformed/jetified-neuro-sdk-1.7.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e09f7287fad59d469404a9d628d90334/transformed/jetified-neuro-sdk-1.7.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e09f7287fad59d469404a9d628d90334/transformed/jetified-neuro-sdk-1.7.6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e09f7287fad59d469404a9d628d90334/transformed/jetified-neuro-sdk-1.7.6/jars/libs/gatt_callback.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neuromd.neurosdk/neuro-sdk/1.7.6/b4c37d7f9b938d18a57d02a062fe0b238817db45/neuro-sdk-1.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neuromd.neurosdk/neuro-sdk/1.7.6/ae79deac1bd6baf8fb6676d8ce5c105836d527a5/neuro-sdk-1.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

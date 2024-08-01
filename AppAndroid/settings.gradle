@@ -1,0 +1,3 @@
+include ':demo'
+include ':utils'
+rootProject.name = "BrainbitExample"

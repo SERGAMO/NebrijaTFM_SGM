@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Brainbit Demo</string>
+    <string name="btn_start_search_title">Start search</string>
+    <string name="btn_stop_search_title">Stop search</string>
+    <string name="btn_dev_info_copy_title_desc">Copy device info</string>
+
+    <string name="dev_state_title">State:</string>
+    <string name="dev_power_title">Power:</string>
+
+    <string name="dev_state_connected">Connected</string>
+    <string name="dev_state_disconnected">Disconnected</string>
+    <string name="dev_power_empty">-</string>
+    <string name="dev_power_prc">%1$d %%</string>
+
+    <string name="device_search_mode_title">Device search</string>
+    <string name="device_search_connected">Device connection success</string>
+    <string name="device_search_connection_failed">Device connection failed</string>
+    <string name="device_info_demo_mode_title">Device Info</string>
+    <string name="signal_demo_mode_title">Signal</string>
+    <string name="resistance_demo_mode_title">Resistance</string>
+    <string name="eeg_demo_mode_title">EEG</string>
+    <string name="eeg_index_demo_mode_title">EEG Index</string>
+    <string name="meditation_demo_mode_title">Meditation</string>
+    <string name="spectrum_demo_mode_title">Spectrum</string>
+    <string name="spectrum_power_demo_mode_title">Spectrum Power</string>
+
+    <string name="dev_inf_copied">Device info copied</string>
+    <string name="dev_inf_common_params">* Common params *</string>
+    <string name="dev_inf_name">Name:\u0020</string>
+    <string name="dev_inf_address">Address:\u0020</string>
+    <string name="dev_inf_serial_number">Serial number:\u0020</string>
+    <string name="dev_inf_version">Version:\u0020</string>
+    <string name="dev_inf_mode">Mode:\u0020</string>
+
+    <string name="dev_inf_supported_params">* Supported params *</string>
+    <string name="dev_inf_param_name">Name:\u0020</string>
+    <string name="dev_inf_param_type">Type:\u0020</string>
+    <string name="dev_inf_param_access">Access:\u0020</string>
+
+    <string name="dev_inf_supported_channels">* Supported device channels *</string>
+    <string name="dev_inf_channel_name">Name:\u0020</string>
+    <string name="dev_inf_channel_type">Type:\u0020</string>
+    <string name="dev_inf_channel_index">Index:\u0020</string>
+
+    <string name="dev_inf_supported_commands">* Supported commands *</string>
+
+    <string name="err_dev_inf_disconnected">Device disconnected</string>
+    <string name="err_dev_inf_failed">Failed load device info</string>
+    <string name="err_start_signal">Failed start signal</string>
+    <string name="err_stop_signal">Failed stop signal</string>
+
+    <string name="el_resistance_o1_title">O1:</string>
+    <string name="el_resistance_o2_title">O2:</string>
+    <string name="el_resistance_t3_title">T3:</string>
+    <string name="el_resistance_t4_title">T4:</string>
+    <string name="el_resistance_value">%1$.1f kOm</string>
+    <string name="el_resistance_infinity_value">ꝏ kOm</string>
+
+    <string name="alpha_index_title">Alpha index:</string>
+    <string name="beta_index_title">Beta index:</string>
+    <string name="delta_index_title">Delta index:</string>
+    <string name="theta_index_title">Theta index:</string>
+
+    <string name="eeg_index_value">%1$.3f</string>
+
+    <string name="el_state_normal">Normal</string>
+    <string name="el_state_detached">Detached</string>
+
+    <string name="meditation_level_title">Level:</string>
+    <string name="meditation_level_progress_title">Level progress:</string>
+
+    <string name="spectrum_power_value">%1$.4f</string>
+</resources>
